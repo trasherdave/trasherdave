@@ -15,8 +15,8 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/trasherdave/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCusOoJZsvMcRSotToCf5aFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/trasherdave/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCusOoJZsvMcRSotToCf5aFQ" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
 </div>
 
