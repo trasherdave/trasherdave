@@ -1,6 +1,6 @@
 ### Olá Mundo!  🌎👋  Eu sou o David 😎
 
-- ☕ Estudando Java para web e mobile.
+- ☕ Estudando Java para Web e Mobile, Padrões de Projetos, Gerência de Configuração de Software e Ember JS.
 - 📫 Contate-me no email: rodrigues.dev@icloud.com
 
 ##
