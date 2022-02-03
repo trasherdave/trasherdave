@@ -1,7 +1,7 @@
 ### Olá Mundo!  🌎👋  Eu sou o David 😎
 
-- 📖 Estudando Angular e React.
-- 📚 Never stop learning!
+- 📖 Estudando React.
+- 📚 Nunca pare de aprender!
 - 📫 Contate-me no email: rodrigues.dev@icloud.com
 
 
