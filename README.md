@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SECAD-TO**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **PL/SQL**
 
 - 💬 Ask me about **Java**
 
