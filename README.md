@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋 I'm David</h1>
 <h3 align="center">A passionate jr data analyst and software developer from Brazil</h3>
 
 - 🔭 I’m currently working on **SECAD-TO**
